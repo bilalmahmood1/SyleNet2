@@ -1,0 +1,12 @@
+
+joblib
+numpy
+scipy
+llvmlite==0.32.1
+librosa
+numpy==1.16.0
+pyparsing
+cycler
+python-dateutil
+kiwisolver
+tensorflow==1.15
